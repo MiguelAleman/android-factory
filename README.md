@@ -1,6 +1,6 @@
 # Instrucciones para comenzar a desarrollar en Android
 
-<center>![Android Factory](https://github.com/MiguelAleman/android_factory/blob/master/images/android_factory.png "Android Factory")</center>
+<center>![Android Factory](https://github.com/MiguelAleman/android-factory/blob/master/images/android_factory.png "Android Factory")</center>
 
 Estas son las instrucciones necesarias para comenzar a desarrollar en Android. Deben completar estos pasos antes de el taller ya que normalmente toma bastante tiempo instalar todos los componentes necesarios.
 
@@ -17,7 +17,7 @@ Estas son las instrucciones necesarias para comenzar a desarrollar en Android. D
 * Una vez instalado, abrir Android Studio y permitir que se bajen los componentes del Android SDK. (Puede tomar tiempo)
 * Una vez termine el proceso veremos una pantalla como esta:
 
-<center>![Welcome Page](https://github.com/MiguelAleman/android_factory/blob/master/images/welcome.png "Welcome Page")</center>
+<center>![Welcome Page](https://github.com/MiguelAleman/android-factory/blob/master/images/welcome.png "Welcome Page")</center>
 
 
 * Dirigirse a Configure/SDK Manager
@@ -26,7 +26,7 @@ Estas son las instrucciones necesarias para comenzar a desarrollar en Android. D
 
 * En esta ventana podremos bajar los APIs necesarios para comenzar a desarrollar en Android:
 
-<center>![SDK Manager](https://github.com/MiguelAleman/android_factory/blob/master/images/sdk_manager.png "SDK Manager")</center>
+<center>![SDK Manager](https://github.com/MiguelAleman/android-factory/blob/master/images/sdk_manager.png "SDK Manager")</center>
 
 * Simplemente dejen los paquetes que fueron seleccionados automaticamente y presionen “Install packages”. Pueden bajar mas APIs si asi lo desean. Siempre es recomendable tener al menos la ultima version.
 

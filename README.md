@@ -32,5 +32,8 @@ Estas son las instrucciones necesarias para comenzar a desarrollar en Android. D
 
 * Para terminos de el taller estaremos utilizando Android 5.0.1 (API 21). Asegurense de tener el API 21 instalado.
 
+### Testing
+* Para las personas que no tienen un dispositivo Android y desean correr sus aplicaciones les aconsejo que bajen [Genymotion](https://www.genymotion.com/#!/). Sigan las instrucciones de como instalarlo ya que es requerido tambien tener instalado [VirtualBox](https://www.virtualbox.org). Si van a utilizar este emulador, traten de crear un dispositivo con API mayor o igual a 21 antes de el taller.
+
 ### Información
 * Si tienen alguna duda se pueden comunicar conmigo a través del correo electronico: **miguel.aleman@upr.edu**.

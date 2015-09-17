@@ -35,5 +35,13 @@ Estas son las instrucciones necesarias para comenzar a desarrollar en Android. D
 ### Testing
 * Para las personas que no tienen un dispositivo Android y desean correr sus aplicaciones les aconsejo que bajen [Genymotion](https://www.genymotion.com/#!/). Sigan las instrucciones de como instalarlo ya que es requerido tambien tener instalado [VirtualBox](https://www.virtualbox.org). Si van a utilizar este emulador, traten de crear un dispositivo con API mayor o igual a 21 antes de el taller.
 
+### Meme Creator App
+
+Pueden bajar el codigo que estuvimos trabajando en el taller de dos maneras:
+* Si conoces de git, pueden hacer
+**"git clone https://github.com/MiguelAleman/android-factory.git"** utilizando el command line/terminal.
+* Otra forma es bajar el zip file, este opcion se encuentra a la parte derecha de la pantalla de este repositorio. Luego de bajar el proyecto, descomprimir el zip file e importar el proyecto **Android Factory** en Android Studio.
+
 ### Información
+
 * Si tienen alguna duda se pueden comunicar conmigo a través del correo electronico: **miguel.aleman@upr.edu**.

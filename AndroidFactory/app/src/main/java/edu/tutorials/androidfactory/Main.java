@@ -1,16 +1,18 @@
 package edu.tutorials.androidfactory;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
 
 
 public class Main extends ActionBarActivity {
 
     // Declaring reference of the first button in the main activity
-
-    // Add code...
+    private Button memeCreatorB;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -18,12 +20,18 @@ public class Main extends ActionBarActivity {
         setContentView(R.layout.activity_main);
 
         // Find reference of button using findViewById
-
-        // Add code...
+        memeCreatorB = (Button) findViewById(R.id.memeCreatorB);
 
         // Listener to detect when the user presses the button
+        memeCreatorB.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(Main.this, MemeCreator.class);
+                startActivity(intent);
+            }
+        });
 
-        // Add code...
+
     }
 
 
